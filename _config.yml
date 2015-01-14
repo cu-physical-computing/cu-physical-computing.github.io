@@ -1,0 +1,12 @@
+# Site settings
+title: BootstrapSK
+email: shaunkane@gmail.com
+author: Shaun Kane
+description: "Bootstrap theme"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+gems:
+  - jekyll-last-modified-at
