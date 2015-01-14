@@ -2,7 +2,7 @@
 title: CSCI 5839 - User-Centered Design
 layout: default
 highlight: home
-permalink: index.html
+permalink: index2.html
 ---
 
 # Physical Computing and Inclusive Design (Spring 2015) #
