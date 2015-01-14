@@ -8,5 +8,3 @@ description: "Bootstrap theme"
 markdown: kramdown
 permalink: pretty
 paginate: 3
-gems:
-  - jekyll-last-modified-at
