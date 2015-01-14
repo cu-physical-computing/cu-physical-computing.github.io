@@ -1,10 +1,10 @@
 ---
-title: CSCI 5839 - User-Centered Design
+title: Grading
 layout: default
-highlight: home
+highlight: grading
 ---
 
-# CSCI 5839: User-Centered Design (Fall 2014)
+# Physical Computing and Inclusive Design (Spring 2015)
 
 This is the homepage for *CSCI 5839: User-Centered Design*, taught by [Shaun Kane](http://shaunkane.info). The teaching assistants for this section are [Gena Welk](mailto:gena.welk@colorado.edu) and [David Quigley](mailto:david.quigley@colorado.edu).
 
